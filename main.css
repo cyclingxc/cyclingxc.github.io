@@ -1,6 +1,12 @@
 			html {
 				word-wrap: break-word;
 			}
+			.sideNav {
+							position:fixed;
+							left:0;
+							top:0;
+							padding-top:100px;
+			}
 			body{
 				background-color: rgb(255,255,236);
 				padding-top: 0;
